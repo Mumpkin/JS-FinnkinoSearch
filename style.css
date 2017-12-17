@@ -1,0 +1,55 @@
+body{
+  text-align:center; /*centers everything*/
+}
+
+h1{
+  padding:20px;
+}
+
+li{
+  list-style-type:none;
+  text-align:left;
+}
+
+.list-group-item{
+  word-wrap:break-word;
+}
+
+select{
+  margin-bottom:20px;
+}
+
+a:hover{
+  text-decoration:none;
+}
+
+/* .rating{
+  border-radius: 50%;
+  behavior: url(PIE.htc);
+  width: 36px;
+  height: 36px;
+  padding: 4px;
+  border: 1.5px solid;
+  text-align: center;
+} */
+
+#movieTable{
+  display:none;
+}
+
+.container, #menu{
+  display: none;
+}
+
+h3{
+  display:inline;
+}
+
+select{
+  width:200px;
+  margin-bottom:2px;
+}
+
+#menu{
+  margin-bottom:10px;
+}
